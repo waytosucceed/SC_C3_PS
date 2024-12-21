@@ -1,0 +1,87 @@
+{
+  "heading": "Sequential Logic",
+  "topics": [
+    {
+      "heading": "Sequential Logic",
+      "questions":
+[
+  {
+    "questionNo": 1,
+    "question": "What does the glide to x: (x) y: (y) block do?",
+    "options": [
+      {
+        "text": "Makes the sprite instantly jump to the specified location."
+      },
+      {
+        "text": "Moves the sprite smoothly to the specified coordinates."
+      },
+      {
+        "text": "Changes the sprite's size."
+      },
+      {
+        "text": "Makes the sprite say something."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 2,
+    "question": "What is the purpose of the say for (x) seconds block?",
+    "options": [
+      {
+        "text": "To make the sprite say something for a set amount of time."
+      },
+      {
+        "text": "To make the sprite move across the screen."
+      },
+      {
+        "text": "To change the size of the sprite."
+      },
+      {
+        "text": "To repeat an action."
+      }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 3,
+    "question": "What will happen if you use change size by 10 after glide to?",
+    "options": [
+      {
+        "text": "The sprite will change size before gliding."
+      },
+      {
+        "text": "The sprite will grow in size after gliding."
+      },
+      {
+        "text": "The sprite will shrink."
+      },
+      {
+        "text": "Nothing will happen."
+      }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 4,
+    "question": "Why is the order of commands important in sequential logic?",
+    "options": [
+      {
+        "text": "The computer will execute the commands in any order."
+      },
+      {
+        "text": "The computer follows the order in which commands are written, affecting the outcome."
+      },
+      {
+        "text": "The computer picks the order randomly."
+      },
+      {
+        "text": "The computer ignores the order of commands."
+      }
+    ],
+    "answer": 1
+  }
+]
+    }
+  ]
+}
